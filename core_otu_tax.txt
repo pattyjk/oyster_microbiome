@@ -1,0 +1,28 @@
+taxonomy	variable
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__OM60: g__: s__	denovo27904
+k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Synechococcaceae: g__Synechococcus: s__	denovo41356
+k__Bacteria: p__Verrucomicrobia: c__Verrucomicrobiae: o__Verrucomicrobiales: f__Verrucomicrobiaceae: g__: s__	denovo75857
+k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Gaetbulibacter: s__marinus	denovo109526
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Stramenopiles: f__: g__: s__	denovo168050
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Chromatiales: f__Chromatiaceae: g__: s__	denovo178360
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__[Marinicellales]: f__[Marinicellaceae]: g__: s__	denovo188915
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__OM60: g__: s__	denovo189681
+k__Bacteria: p__Proteobacteria: c__Deltaproteobacteria: o__Desulfobacterales: f__Desulfobacteraceae: g__Desulfosarcina: s__	denovo197867
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Stramenopiles: f__: g__: s__	denovo325256
+k__Bacteria: p__Tenericutes: c__Mollicutes: o__: f__: g__: s__	denovo332829
+k__Bacteria: p__Spirochaetes: c__[Brachyspirae]: o__[Brachyspirales]: f__Brachyspiraceae: g__: s__	denovo382441
+k__Bacteria: p__Proteobacteria: c__Epsilonproteobacteria: o__Campylobacterales: f__Helicobacteraceae: g__: s__	denovo484015
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Stramenopiles: f__: g__: s__	denovo509076
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__: g__: s__	denovo537034
+k__Bacteria: p__Actinobacteria: c__Acidimicrobiia: o__Acidimicrobiales: f__koll13: g__: s__	denovo563582
+k__Bacteria: p__Planctomycetes: c__Planctomycetia: o__Pirellulales: f__Pirellulaceae: g__: s__	denovo649427
+k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae	denovo690290
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Stramenopiles: f__: g__: s__	denovo694227
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__HOC36: f__: g__: s__	denovo713257
+k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Stramenopiles: f__: g__: s__	denovo737280
+k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Thiohalorhabdales: f__: g__: s__	denovo745024
+k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__: s__	denovo806217
+k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Cloacibacterium: s__	denovo818245
+k__Bacteria: p__Proteobacteria: c__Deltaproteobacteria: o__Myxococcales: f__: g__: s__	denovo918728
+k__Bacteria: p__Proteobacteria: c__Deltaproteobacteria: o__Desulfobacterales: f__Desulfobulbaceae: g__: s__	denovo937800
+k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Octadecabacter: s__	denovo947874

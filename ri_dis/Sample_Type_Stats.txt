@@ -1,0 +1,72 @@
+# The tests of significance were performed using a two-sided Student's two-sample t-test.
+# Alternative hypothesis: Group 1 mean != Group 2 mean
+# Entries marked with "N/A" could not be calculated because at least one of the groups
+# of distances was empty, both groups each contained only a single distance, or
+# the test could not be performed (e.g. no variance in groups with the same mean).
+Group 1	Group 2	t statistic	Parametric p-value	Parametric p-value (Bonferroni-corrected)	Nonparametric p-value	Nonparametric p-value (Bonferroni-corrected)
+All within Sample_Type	All between Sample_Type	-69.883643679	0.0	0.0	N/A	N/A
+All within Sample_Type	Stomach vs. Stomach	-1.41444739922	0.157797455327	1	N/A	N/A
+All within Sample_Type	Gills vs. Gills	-8.26632129599	9.87418018151e-16	6.5169589198e-14	N/A	N/A
+All within Sample_Type	Sed vs. Sed	3.43913862617	0.000608770486223	0.0401788520907	N/A	N/A
+All within Sample_Type	WC vs. WC	-4.98510125263	8.37428549781e-07	5.52702842855e-05	N/A	N/A
+All within Sample_Type	Stomach vs. Gills	-27.6810669894	2.33232118151e-109	1.5393319798e-107	N/A	N/A
+All within Sample_Type	Stomach vs. Sed	-47.4480703902	1.47628422722e-229	9.74347589966e-228	N/A	N/A
+All within Sample_Type	Stomach vs. WC	-30.5367137546	5.44378220564e-122	3.59289625572e-120	N/A	N/A
+All within Sample_Type	Gills vs. Sed	-43.3952370107	1.02904761702e-214	6.79171427235e-213	N/A	N/A
+All within Sample_Type	Gills vs. WC	-29.5729022992	5.79442119263e-118	3.82431798714e-116	N/A	N/A
+All within Sample_Type	Sed vs. WC	-56.6531171205	7.33651119087e-264	4.84209738597e-262	N/A	N/A
+All between Sample_Type	Stomach vs. Stomach	18.705847117	1.45966996503e-66	9.6338217692e-65	N/A	N/A
+All between Sample_Type	Gills vs. Gills	16.6897705509	4.83501929021e-55	3.19111273154e-53	N/A	N/A
+All between Sample_Type	Sed vs. Sed	77.2121957973	0.0	0.0	N/A	N/A
+All between Sample_Type	WC vs. WC	9.38987443486	4.57369716568e-20	3.01864012935e-18	N/A	N/A
+All between Sample_Type	Stomach vs. Gills	2.42292260437	0.0155754515514	1	N/A	N/A
+All between Sample_Type	Stomach vs. Sed	2.90071681873	0.00379421570161	0.250418236306	N/A	N/A
+All between Sample_Type	Stomach vs. WC	-7.03443515167	3.81469545721e-12	2.51769900176e-10	N/A	N/A
+All between Sample_Type	Gills vs. Sed	7.76180395531	1.77686635089e-14	1.17273179159e-12	N/A	N/A
+All between Sample_Type	Gills vs. WC	-3.02799064242	0.00252723548607	0.166797542081	N/A	N/A
+All between Sample_Type	Sed vs. WC	-11.5202898064	4.70465983207e-29	3.10507548917e-27	N/A	N/A
+Stomach vs. Stomach	Gills vs. Gills	-3.17378172777	0.00222485305333	0.14684030152	N/A	N/A
+Stomach vs. Stomach	Sed vs. Sed	3.04892152362	0.00242878830618	0.160300028208	N/A	N/A
+Stomach vs. Stomach	WC vs. WC	-1.91904257829	0.0619581909879	1	N/A	N/A
+Stomach vs. Stomach	Stomach vs. Gills	-11.8922293604	3.12929955895e-21	2.0653377089e-19	N/A	N/A
+Stomach vs. Stomach	Stomach vs. Sed	-18.7364943904	1.60847204516e-50	1.0615915498e-48	N/A	N/A
+Stomach vs. Stomach	Stomach vs. WC	-17.1078316683	1.97883379073e-27	1.30603030188e-25	N/A	N/A
+Stomach vs. Stomach	Gills vs. Sed	-13.8636099159	1.12095372221e-34	7.39829456658e-33	N/A	N/A
+Stomach vs. Stomach	Gills vs. WC	-15.3384432264	2.44025988798e-26	1.61057152606e-24	N/A	N/A
+Stomach vs. Stomach	Sed vs. WC	-29.6955579815	2.25048664156e-76	1.48532118343e-74	N/A	N/A
+Gills vs. Gills	Sed vs. Sed	12.4304553319	6.20056513999e-31	4.0923729924e-29	N/A	N/A
+Gills vs. Gills	WC vs. WC	-0.150291491474	0.881056092963	1	N/A	N/A
+Gills vs. Gills	Stomach vs. Gills	-11.1897830913	1.77414552626e-20	1.17093604733e-18	N/A	N/A
+Gills vs. Gills	Stomach vs. Sed	-17.3669830902	1.71372509634e-46	1.13105856358e-44	N/A	N/A
+Gills vs. Gills	Stomach vs. WC	-20.4887607357	7.48524612499e-36	4.9402624425e-34	N/A	N/A
+Gills vs. Gills	Gills vs. Sed	-11.7357175559	5.75004641253e-27	3.79503063227e-25	N/A	N/A
+Gills vs. Gills	Gills vs. WC	-16.7898836291	2.9942192774e-31	1.97618472309e-29	N/A	N/A
+Gills vs. Gills	Sed vs. WC	-33.6924957917	1.8921957171e-89	1.24884917328e-87	N/A	N/A
+Sed vs. Sed	WC vs. WC	-7.45422431757	4.70943297204e-13	3.10822576154e-11	N/A	N/A
+Sed vs. Sed	Stomach vs. Gills	-37.6713553145	7.76418950754e-150	5.12436507497e-148	N/A	N/A
+Sed vs. Sed	Stomach vs. Sed	-62.5996421986	7.84471203301e-283	5.17750994179e-281	N/A	N/A
+Sed vs. Sed	Stomach vs. WC	-43.6250857909	2.6097195705e-169	1.72241491653e-167	N/A	N/A
+Sed vs. Sed	Gills vs. Sed	-53.0977768536	2.06434894066e-253	1.36247030084e-251	N/A	N/A
+Sed vs. Sed	Gills vs. WC	-41.845395171	2.32691074872e-164	1.53576109415e-162	N/A	N/A
+Sed vs. Sed	Sed vs. WC	-79.7310779924	0.0	0.0	N/A	N/A
+WC vs. WC	Stomach vs. Gills	-6.26185897864	1.16344196326e-08	7.67871695754e-07	N/A	N/A
+WC vs. WC	Stomach vs. Sed	-9.748379055	2.86747224078e-19	1.89253167892e-17	N/A	N/A
+WC vs. WC	Stomach vs. WC	-11.5650160655	5.12296178533e-17	3.38115477832e-15	N/A	N/A
+WC vs. WC	Gills vs. Sed	-6.55718222431	2.26316155115e-10	1.49368662376e-08	N/A	N/A
+WC vs. WC	Gills vs. WC	-9.45058210774	2.67445902152e-14	1.7651429542e-12	N/A	N/A
+WC vs. WC	Sed vs. WC	-19.0846674025	2.59489924952e-46	1.71263350468e-44	N/A	N/A
+Stomach vs. Gills	Stomach vs. Sed	-0.76295095827	0.446058237814	1	N/A	N/A
+Stomach vs. Gills	Stomach vs. WC	-8.52221920245	4.07777454276e-14	2.69133119822e-12	N/A	N/A
+Stomach vs. Gills	Gills vs. Sed	1.80949961172	0.0711676154964	1	N/A	N/A
+Stomach vs. Gills	Gills vs. WC	-4.5371633568	1.22799199179e-05	0.000810474714581	N/A	N/A
+Stomach vs. Gills	Sed vs. WC	-13.3219045302	3.64043396793e-31	2.40268641884e-29	N/A	N/A
+Stomach vs. Sed	Stomach vs. WC	-11.0178204933	9.14754029485e-24	6.0373765946e-22	N/A	N/A
+Stomach vs. Sed	Gills vs. Sed	3.96939119986	8.18373834492e-05	0.00540126730765	N/A	N/A
+Stomach vs. Sed	Gills vs. WC	-5.67954993046	3.20859623496e-08	2.11767351508e-06	N/A	N/A
+Stomach vs. Sed	Sed vs. WC	-17.6092716855	2.53901935945e-52	1.67575277723e-50	N/A	N/A
+Stomach vs. WC	Gills vs. Sed	9.90328806799	1.60672506133e-20	1.06043854047e-18	N/A	N/A
+Stomach vs. WC	Gills vs. WC	6.96977220049	2.803267953e-10	1.85015684898e-08	N/A	N/A
+Stomach vs. WC	Sed vs. WC	2.82959344692	0.00508010829045	0.335287147169	N/A	N/A
+Gills vs. Sed	Gills vs. WC	-6.4504860603	3.61817674839e-10	2.38799665394e-08	N/A	N/A
+Gills vs. Sed	Sed vs. WC	-16.898304383	1.44150819489e-50	9.51395408627e-49	N/A	N/A
+Gills vs. WC	Sed vs. WC	-7.61740768604	6.08860404489e-13	4.01847866963e-11	N/A	N/A
